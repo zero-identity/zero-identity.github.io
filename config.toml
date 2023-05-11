@@ -1,0 +1,4 @@
+baseURL = 'https://zero-identity.github.io/'
+languageCode = 'en-us'
+title = 'Zero Identity'
+theme = 'ananke'
